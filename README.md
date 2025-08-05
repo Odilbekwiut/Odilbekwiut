@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there! I'm Odilbekwiut
 
-<!--
-**Odilbekwiut/Odilbekwiut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning and building cool things with code.
+- 💡 I love exploring new technologies and collaborating on projects.
+- 🛠️ My favorite languages/tools: Python, JavaScript, Git, and more!
+- 📫 How to reach me: odilbekwiut@example.com (replace with your actual email or social link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Odilbekwiut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odilbekwiut&show_icons=true&theme=radical)
+
+## 🚀 Projects
+- No projects for now 
+
+Thanks for visiting! 😊
