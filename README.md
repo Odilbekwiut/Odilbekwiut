@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Odiljon 👋</h1>
-<h3 align="center">Financial Data Analyst in training · Economics @ WIUT · Python & Streamlit builder</h3>
+<h3 align="center">Financial Data Analyst in training · Economics · Accauunting · Finance · Analytics · WIUT · Python & Streamlit builder</h3>
 
 <p align="center">
   I turn messy financial and operational data into dashboards, models, and reports people actually use.
@@ -82,7 +82,7 @@ A Streamlit dashboard analyzing urban mobility and safety reports across city di
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Odilbekwiut&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://raw.githubusercontent.com/Odilbekwiut/Odilbekwiut/main/github-streak-stats.svg" width="49%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Odilbekwiut&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
