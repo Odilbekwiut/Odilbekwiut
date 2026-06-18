@@ -23,7 +23,7 @@
 - 🌍 Based in Tashkent, Uzbekistan — open to remote or on-site internships
 - ⚡ Fun fact: both of my featured projects went from raw, messy data to fully interactive dashboards — that pipeline is what I enjoy most
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -35,66 +35,60 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+Languages: Python, basic JS/SQL
+Data Tools: pandas, NumPy, openpyxl, GeoPandas
+Visualization: Matplotlib, Plotly, Streamlit
+Other: Git/GitHub, Excel modeling, Jupyter/Colab
 
-**Languages:** Python, basic JS/SQL
-**Data Tools:** pandas, NumPy, openpyxl, GeoPandas
-**Visualization:** Matplotlib, Plotly, Streamlit
-**Other:** Git/GitHub, Excel modeling, Jupyter/Colab
 
----
-
-### 🚀 Featured Projects
+🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**📊 [Streamline Data Studio](https://github.com/Odilbekwiut/Data-Wrangler-Visualizer)**
+📊 Streamline Data Studio
 A multi-page Streamlit app for end-to-end data wrangling — upload, clean, visualize, and export a dataset with zero code.
 
-`Python` `pandas` `Streamlit` `Matplotlib`
+Python pandas Streamlit Matplotlib
 
-- 6 chart types with PNG export
-- Full transformation log with undo/reset
-- 120+ item manual test checklist + automated smoke tests
+
+6 chart types with PNG export
+Full transformation log with undo/reset
+120+ item manual test checklist + automated smoke tests
+
 
 </td>
 <td width="50%" valign="top">
-
-**🚦 [Urban Mobility & Safety Dashboard](https://github.com/Odilbekwiut/urban-mobility-safety-dashboard)**
+🚦 Urban Mobility & Safety Dashboard
 A Streamlit dashboard analyzing urban mobility and safety reports across city districts to spot risk hotspots.
 
-`Python` `pandas` `GeoPandas` `Plotly`
+Python pandas GeoPandas Plotly
 
-- Spatial join assigning reports to districts via GeoJSON
-- Choropleth map + KPI filters by district
-- Built for city-analyst style decision support
+
+Spatial join assigning reports to districts via GeoJSON
+Choropleth map + KPI filters by district
+Built for city-analyst style decision support
+
 
 </td>
 </tr>
 </table>
-
 <p align="center"><i>More projects on the way — check my <a href="https://github.com/Odilbekwiut?tab=repositories">repositories</a> for the latest.</i></p>
 
----
-
-### 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Odilbekwiut&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odilbekwiut&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Odilbekwiut&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Odilbekwiut&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odilbekwiut&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
----
+🤝 Let's Connect
 
-### 🤝 Let's Connect
+I'm actively looking for internships in finance and data analytics where I can apply Python and analytical thinking to real business problems. Feel free to reach out:
 
-I'm actively looking for **internships in finance and data analytics** where I can apply Python and analytical thinking to real business problems. Feel free to reach out:
-
-📩 [oegamberdiev@students.wiut.uz](mailto:oegamberdiev@students.wiut.uz) · 💼 [LinkedIn](https://www.linkedin.com/in/odiljon-egamberdiyev/) · 🌐 [Portfolio](https://odiljon-portfolio.me/#contact) · 💬 [Telegram](https://t.me/Odiljon_Egamberdiev)
+📩 oegamberdiev@students.wiut.uz · 💼 LinkedIn · 🌐 Portfolio · 💬 Telegram
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos above! 🚀</i></p>
