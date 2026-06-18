@@ -1,0 +1,22 @@
+name: GitHub Streak Stats SVG generator
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day at midnight UTC
+  workflow_dispatch: # allows manual trigger from the Actions tab
+
+jobs:
+  generate-streak-stats:
+    runs-on: ubuntu-latest
+    name: Generate streak stats image
+    steps:
+      - name: Generate streak stats image
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          user_id: 224121512
+          theme: tokyonight
+          hide_border: true
+          stroke: "transparent"
+          exclude_days: ""
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
