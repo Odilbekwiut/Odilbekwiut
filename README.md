@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Odiljon 👋</h1>
-<h3 align="center">Financial Data Analyst in training · Economics @ WIUT · Python & Streamlit builder</h3>
+<h3 align="center">Financial Data Analyst in training · Economics · WIUT ·Accaunting · Finance · Python & Streamlit builder</h3>
 
 <p align="center">
   I turn messy financial and operational data into dashboards, models, and reports people actually use.
@@ -17,7 +17,7 @@
 
 ### 🧭 About Me
 
-- 🎓 Economics student at **Westminster International University in Tashkent (WIUT)**
+- 🎓 Economics with Data Science student at **Westminster International University in Tashkent (WIUT)**
 - 📊 Focused on **financial data analysis** — cleaning, modeling, and visualizing data to support real decisions
 - 🛠️ Building hands-on projects in **Python, pandas, and Streamlit** to practice end-to-end data workflows
 - 🌍 Based in Tashkent, Uzbekistan — open to remote or on-site internships
